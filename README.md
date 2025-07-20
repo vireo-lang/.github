@@ -1,2 +1,2 @@
 # .github
-GH profile
+GH profile and discussions
